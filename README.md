@@ -1,1 +1,1 @@
-# getheadinfo
+# get head info
