@@ -1,6 +1,6 @@
 # get head info
 
-##0> ./getheadinfo  google.com:80
+## 0> ./getheadinfo  google.com:80
 ...HTTP/1.0 200 OK
 ...Date: Sun, 11 Jun 2017 20:15:07 GMT
 ...Expires: -1
